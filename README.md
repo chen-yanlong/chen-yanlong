@@ -1,5 +1,5 @@
-<h1 align="center">Hi i am Chen yanlong 👋</h1>
-<h3 align="center">A student trying to become a web3 developer in Taiwan</h3>
+<h1 align="center">Hi i am chen yanlong 👋</h1>
+<h3 align="center">A student becoming a blockchain/ zk developer in Taiwan</h3>
 
 <p align="center">
 	<a href="mailto:dinoxxur@gmail.com?subject=Github%20Visitor&body=Hi%20Ohidur,..."><img src="http://img.shields.io/badge/dinoxxur@gmail.com-_?label=Send%20Mail&style=social&logo=gmail" alt="dinoxxur@gmail.com"></a>
